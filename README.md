@@ -1,4 +1,4 @@
-# Binary-S-T
+# Binary-Search-Tree
 
 
 Proje 3
