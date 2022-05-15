@@ -16,12 +16,12 @@ Rootun solunda 5, 5in sağında 6 solunda 1 bulunur
 
 #                Binary search tree
 
-#                        7 
-#                        
-#                 5             8
-#                 
-#             1        6              9
-#          
-#          0      3
-#              
-#              2     4
+                        7 
+                        
+                 5             8
+                 
+             1        6              9
+          
+          0      3
+              
+              2     4
